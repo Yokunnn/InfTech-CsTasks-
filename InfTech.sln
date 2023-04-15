@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfTech2", "InfTech2\InfTech2.csproj", "{2FFB6EA8-8B80-4B29-AE1D-BAFF54E8C122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfTech3", "InfTech3\InfTech3.csproj", "{C4D2F172-B96D-4B73-9F8C-7A8907B3E06A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfTech3", "InfTech3\InfTech3.csproj", "{C4D2F172-B96D-4B73-9F8C-7A8907B3E06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfTech4", "InfTech4\InfTech4.csproj", "{0E51CBF5-218C-4F29-827F-A8E7F4791325}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{C4D2F172-B96D-4B73-9F8C-7A8907B3E06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4D2F172-B96D-4B73-9F8C-7A8907B3E06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4D2F172-B96D-4B73-9F8C-7A8907B3E06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E51CBF5-218C-4F29-827F-A8E7F4791325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E51CBF5-218C-4F29-827F-A8E7F4791325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E51CBF5-218C-4F29-827F-A8E7F4791325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E51CBF5-218C-4F29-827F-A8E7F4791325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
